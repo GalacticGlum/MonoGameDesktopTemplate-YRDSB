@@ -2,3 +2,7 @@
 A MonoGame Desktop template specifically adapted for use on limited-permission systems that do not allow the standard MonoGame installation.
 
 This template works by leveraging the NuGet package manager to bundle MonoGame with a project template that automates the content output. The template also bundles the MonoGame content build (MGCB) pipeline tool.
+
+## Documentation
+
+Refer to the [wiki](https://github.com/GalacticGlum/MonoGameDesktopTemplate-YRDSB/wiki) for installation and usage instructions.
